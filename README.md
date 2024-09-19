@@ -1,3 +1,2 @@
-# chris-jpark.github.io
-
-This is my personal portfolio, available at https://chris-jpark.me
+This repo is a clone of
+https://github.com/varadbhogayata/varadbhogayata.github.io
